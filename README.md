@@ -1,10 +1,9 @@
-📌 Project Overview
+# Project Overview
 
 AI-Powered-HR-Automation-Suite is a practical project that demonstrates how Artificial Intelligence transforms modern Human Resource management. It showcases AI implementation across five key HR domains and compares traditional HR processes with AI-driven automation.
-
 This project highlights measurable improvements in time efficiency, accuracy, scalability, and employee experience.
 
-🎯 Objectives
+# Objectives
 Demonstrate AI applications in core HR functions
 Compare traditional vs AI-powered processes
 Measure time savings and efficiency improvements
@@ -66,4 +65,4 @@ Cloud deployment support
 Author
 Vanshika
 
-This project is for educational and demonstration purposes.
+
