@@ -31,18 +31,6 @@ Employee Queries	24 Hours	Instant	95% Faster
 Onboarding	2–3 Days	Automated Workflow	60–70% Faster
 Performance Tracking	Manual Spreadsheets	AI Dashboard	High Accuracy
 
-# Repository Structure
-AI-Powered-HR-Automation-Suite/
-│
-├── Recruitment/
-├── Employee_Engagement/
-├── Learning_and_Development/
-├── Performance_Management/
-├── HR_Operations/
-├── datasets/
-├── workflows/
-└── README.md
-
 # Key Benefits
 Reduced manual workload
 Improved hiring accuracy
